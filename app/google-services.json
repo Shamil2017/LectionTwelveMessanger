@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168602466146",
+    "project_id": "messanger-13c76",
+    "storage_bucket": "messanger-13c76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168602466146:android:8ce4b06daae2e82bf7de3b",
+        "android_client_info": {
+          "package_name": "com.example.lectiontwelvemessanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168602466146-mks4g255r4q2ua6hgi8fg61pi9aqnpd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfZFx_5Nlv5CzazcJ7mw5BCgBTfkOdaPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168602466146-mks4g255r4q2ua6hgi8fg61pi9aqnpd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
